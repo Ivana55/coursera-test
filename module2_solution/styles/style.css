@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 #pinktitle{
-  bottom: 300px;
+  bottom: 250px;
   background-color: #ff66cc;
   position: absolute;
   width: 30%;
@@ -17,7 +17,7 @@
   
 }
 #redtitle{
-  bottom: 300px;
+  bottom: 250px;
   background-color: #ff0000;
   position: absolute;
   width: 30%;
@@ -29,7 +29,7 @@
   font-family: cursive,serif;
 }
 #yellowtitle{
-  bottom: 300px;
+  bottom: 250px;
   background-color: #ffff66;
   position: absolute;
   width: 30%;
