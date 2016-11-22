@@ -8,7 +8,7 @@
   background-color: #ff66cc;
   position: absolute;
   width: 30%;
-  height: 30px;
+  height: 15px;
   color: black;
   text-align: center;
   padding: 10px;
@@ -21,7 +21,7 @@
   background-color: #ff0000;
   position: absolute;
   width: 30%;
-  height:30px;
+  height:15px;
   color: white;
   text-align: center; 
   padding: 10px;
@@ -33,7 +33,7 @@
   background-color: #ffff66;
   position: absolute;
   width: 30%;
-  height:30px;
+  height:15px;
   color: black;
   text-align: center; 
   padding: 10px;
