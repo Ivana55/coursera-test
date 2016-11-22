@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 #pinktitle{
-  bottom: 205px;
+  bottom: 300px;
   background-color: #ff66cc;
   position: absolute;
   width: 30%;
-  height: 50px;
+  height: 45px;
   color: black;
   text-align: center;
   padding: 10px;
@@ -17,11 +17,11 @@
   
 }
 #redtitle{
-  bottom: 205px;
+  bottom: 300px;
   background-color: #ff0000;
   position: absolute;
   width: 30%;
-  height:50px;
+  height:45px;
   color: white;
   text-align: center; 
   padding: 10px;
@@ -29,11 +29,11 @@
   font-family: cursive,serif;
 }
 #yellowtitle{
-  bottom: 205px;
+  bottom: 300px;
   background-color: #ffff66;
   position: absolute;
   width: 30%;
-  height:50px;
+  height:45px;
   color: black;
   text-align: center; 
   padding: 10px;
